@@ -1,4 +1,4 @@
-## SimpleBible
+# SimpleBible
 <img alt="logo" align="right" src="./Extra/final_logo.png" width="150" height="150">Simple Bible is an Android application specifically made for India. App still in progress. More Indian languages are to be added
 
 # Releases
