@@ -1,0 +1,231 @@
+<resources>
+    <string name="app_name">SimpleBible</string>
+    <string name="chapter">Chapter</string>
+    <string-array name="book">
+        <item>Genesis</item>
+        <item>Exodus</item>
+        <item>Leviticus</item>
+        <item>Numbers</item>
+        <item>Deuteronomy</item>
+        <item>Joshua</item>
+        <item>Judges</item>
+        <item>Ruth</item>
+        <item>1 Samuel</item>
+        <item>2 Samuel</item>
+        <item>1 Kings</item>
+        <item>2 Kings</item>
+        <item>1 Chronicles</item>
+        <item>2 Chronicles</item>
+        <item>Ezra</item>
+        <item>Nehemiah</item>
+        <item>Esther</item>
+        <item>Job</item>
+        <item>Psalms</item>
+        <item>Proverbs</item>
+        <item>Ecclesiastes</item>
+        <item>Song of Solomon</item>
+        <item>Isaiah</item>
+        <item>Jeremiah</item>
+        <item>Lamentations</item>
+        <item>Ezekiel</item>
+        <item>Daniel</item>
+        <item>Hosea</item>
+        <item>Joel</item>
+        <item>Amos</item>
+        <item>Obadiah</item>
+        <item>Jonah</item>
+        <item>Micah</item>
+        <item>Nahum</item>
+        <item>Habakkuk</item>
+        <item>Zephaniah</item>
+        <item>Haggai</item>
+        <item>Zechariah</item>
+        <item>Malachi</item>
+        <item>Matthew</item>
+        <item>Mark</item>
+        <item>Luke</item>
+        <item>John</item>
+        <item>Acts</item>
+        <item>Romans</item>
+        <item>1 Corinthians</item>
+        <item>2 Corinthians</item>
+        <item>Galatians</item>
+        <item>Ephesians</item>
+        <item>Philippians</item>
+        <item>Colossians</item>
+        <item>1 Thessalonians</item>
+        <item>2 Thessalonians</item>
+        <item>1 Timothy</item>
+        <item>2 Timothy</item>
+        <item>Titus</item>
+        <item>Philemon</item>
+        <item>Hebrews</item>
+        <item>James</item>
+        <item>1 Peter</item>
+        <item>2 Peter</item>
+        <item>1 John</item>
+        <item>2 John</item>
+        <item>3 John</item>
+        <item>Jude</item>
+        <item>Revelation</item>
+    </string-array>
+    <string-array name="chapter">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+        <item>109</item>
+        <item>110</item>
+        <item>111</item>
+        <item>112</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+        <item>116</item>
+        <item>117</item>
+        <item>118</item>
+        <item>119</item>
+        <item>120</item>
+        <item>121</item>
+        <item>122</item>
+        <item>123</item>
+        <item>124</item>
+        <item>125</item>
+        <item>126</item>
+        <item>127</item>
+        <item>128</item>
+        <item>129</item>
+        <item>130</item>
+        <item>131</item>
+        <item>132</item>
+        <item>133</item>
+        <item>134</item>
+        <item>135</item>
+        <item>136</item>
+        <item>137</item>
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+        <item>143</item>
+        <item>144</item>
+        <item>145</item>
+        <item>146</item>
+        <item>147</item>
+        <item>148</item>
+        <item>149</item>
+        <item>150</item>
+    </string-array>
+
+    <string-array name="version">
+        <item>Telugu-BSI</item>
+        <item>English-NASB</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
