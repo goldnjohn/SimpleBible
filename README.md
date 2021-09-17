@@ -11,6 +11,8 @@
   * Text is selectable, so you an copy verses.
   * Number of chapters for each Book was not set. so you will see 150 chapters for every book. I'll try to fix that in next release
   
-# Look
+# Appearance
   <img alt="shot" src="./Extra/Screenshot_1625132537.png" width="200" height="400"> <img alt="shot" src="./Extra/Screenshot_1625132528.png" width="200" height="400"><br>Here are Screenshots<br>
 
+# Notice
+under development
